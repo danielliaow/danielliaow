@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔥Three internships in autonomous robots, devices, and web development 🤖<br><br>Redefine attendance tracking for 80,000+ Arizona State University students, saving 38 hours of manual data entry per semester<br><br>In my free time, you might find me ballroom dancing, swimming, and snowboarding.
+email: danielliao.job@gmail.com
+
+I'm Daniel, and I'm building something new. I launched asuranked  in a week, a Facemash-like social network that reached XXXX+ users in just 3 days (React, TypeScript, Selenium)
+
+I build high-performance for healthcare and autonomous vehicles, while hoping nobody dies. ❤️
+
+Some things I've worked on:
+
+– Real-time video processing on iOS, cutting vitals collection time by 0.5s (25\%) @ Mayo Clinic (Swift, python)
+
+– Process scheduling on autonomous vehicle systems, saved 5+ minutes per test by automating Python experiments @ Uniring Robotics & ITRI (C++, Python, Linux)
+
+– Redefined ASU’s attendance tracking system, capable of serving 80,000+ students (Java)
+
+I’m into people who aren’t afraid to break the rules and do their own thing. If that’s you, let’s get ice cream or something: D
+
+I also enjoy: 💃 Freestyle 🏊 Swimming 🏂 Snowboarding
 
 
 ## 🌐 Socials:
